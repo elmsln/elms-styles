@@ -1,6 +1,8 @@
 <h2>ELMS Style Library on github</h2>
 This is the github home for the library published at http://elms-styles.jayperryworks.com/ .  The only difference is that github can't host one of the library PSDs which is over 100 megs cause of images / screens.  To get that file, please 
-download the package from http://elms-styles.jayperryworks.com/ .  For everything else, you can get derivatives of the 1.x version here. Enjoy!
+download the package from http://elms-styles.jayperryworks.com/ .  For everything else, you can get derivatives of the 1.x version here.
+
+This style guide was produced to influence the initial development of ELMS Learning Network (ELMSLN). This style guide is based off of Zurb Foundation 4.x and CIS 1.x development and ELMSLN has since moved on to Zurb Foundation 5.x. While similar, the styles utilized in ELMSLN are now managed by @michael-collins and has its own repo which is part of this organization.
 
 <h2>Licensing & Usage</h2>
 This design theme was produced by Jay Perry Works for the e-Learning Institute at The Pennsylvania State University’s College of Arts & Architecture. With their approval and gracious support, we’ve released a version of the design work under the Creative Commons Attribution-ShareAlike 3.0 Unported License.
